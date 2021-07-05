@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mosh-react-native",
-    "slug": "mosh-react-native",
+    "name": "first-mobile-app",
+    "slug": "first-mobile-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "It's just a working app"
   }
 }

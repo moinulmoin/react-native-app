@@ -1,0 +1,5 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.fontFamily": "Operator Mono Lig",
+	"editor.fontSize": 18
+}
